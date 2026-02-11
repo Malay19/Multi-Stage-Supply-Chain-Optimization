@@ -1,7 +1,6 @@
-# Multi-Stage-Supply-Chain-Optimization
-End-to-end pricing, warehouse allocation, and vehicle routing optimization using AMPL and Gurobi to maximize profit under operational constraints.
+# Retail Network Profit Optimization Engine
 
-# End-to-End Pricing & Supply Chain Optimization
+## End-to-End Pricing & Supply Chain Optimization
 
 ## Overview
 This project builds a three-stage optimization pipeline to maximize profitability across a retail supply network.
